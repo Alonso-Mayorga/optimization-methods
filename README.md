@@ -39,6 +39,10 @@ This repository contains various optimization methods implemented in MATLAB. The
 
 Please refer to the individual code files for detailed explanations of each method's functionality and usage.
 
+## License
+
+This project is licensed under the [MIT License](license.txt).
+
 ---
 
 Feel free to explore the code files and adapt them to your specific needs. If you have any questions or suggestions, please feel free to open an issue or contact me directly.
